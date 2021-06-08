@@ -2,7 +2,7 @@
 from pbdlib.gui import InteractiveDemos
 import argparse
 
-print "dt = 0.05"
+print("dt = 0.05")
 
 arg_fmt = argparse.RawDescriptionHelpFormatter
 
