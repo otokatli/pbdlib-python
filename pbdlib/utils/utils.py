@@ -685,7 +685,7 @@ def train_test(demos, demo_idx=0, nb_states=5, test=True, sensory=True, kbins=Tr
 
 			best['model'] = deepcopy(model)
 
-	print 'Best :', best['score']
+	print('Best :', best['score'])
 	model = best['model']
 
 	model.compute_duration(demos_train)
