@@ -1,10 +1,4 @@
-### Papers-related pages
-
-If you came there reading one of the following works, please directly go to the related page.
-
-- [Bayesian Gaussian mixture model for robotic policy imitation](https://gitlab.idiap.ch/rli/pbdlib-python/blob/master/pop/readme.md)
-- [Variational Inference with Mixture Model Approximation for Applications in Robotics](https://gitlab.idiap.ch/rli/pbdlib-python/blob/master/vmm/readme.md)
-
+Cloned from [Robot Learning and Interaction Group Gitlab repository](https://gitlab.idiap.ch/rli/pbdlib-python). Fixing syntax and indentation errors for Python3.
 
 # pbdlib
 
