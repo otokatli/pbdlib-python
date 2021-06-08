@@ -10,7 +10,7 @@ from .plot import *
 from .poglqr import PoGLQR, LQR, GMMLQR
 from .mtmm import MTMM, VBayesianGMM, VMBayesianGMM, VBayesianHMM
 from .dmp import DMP
-from  .vhmm import BayesianMarkovianGaussianMixture
+# from  .vhmm import BayesianMarkovianGaussianMixture
 
 try:
     import gui
